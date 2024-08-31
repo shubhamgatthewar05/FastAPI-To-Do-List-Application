@@ -1,6 +1,4 @@
-Sure! Here's a `README.md` file template for your FastAPI project:
 
-```markdown
 # FastAPI To-Do List Application
 
 This is a simple To-Do list application built using FastAPI, which demonstrates basic CRUD operations (Create, Read, Update, Delete).
@@ -91,8 +89,6 @@ pip freeze > requirements.txt
 ```
 
 This command will capture all the dependencies required for the project.
-
-## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
